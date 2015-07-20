@@ -1,0 +1,72 @@
+body {
+	background: #FFF;
+	color: #666;
+	text-align: justify;	
+}
+
+a {
+	color: #FF0000;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	color: #333;
+	font-size: 40px;
+	text-align: center;
+	margin: 0 0 25px;
+}
+
+.container {
+	width: 600px;
+	margin: 0 auto;
+	padding: 45px 0 0;
+}
+
+.border {
+	border: 1px solid;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+
+input[type="text"]{
+	width:40px;
+}
+
+.buttons {
+	width: 390px;
+	height: 75px;
+	margin: 0 auto;
+}
+
+.button {
+	display: block;
+	background: #007200;
+	color: #FFF;
+	text-decoration: none;
+	width: 110px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px 0 0 15px;
+	font-size: 18px;
+	line-height: 29px;
+}
+
+.download {
+	width: 200px;
+}
+
+.button:hover {
+	background: #74A599;
+}
+
+.button:active {
+	background: #F6A953;
+}
+
+p.social-share {
+	text-align: center;
+}
